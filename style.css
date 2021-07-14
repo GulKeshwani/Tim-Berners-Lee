@@ -1,11 +1,12 @@
-Body{
+body{
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 .profile{
     width: 175px;
     margin-bottom: 50px;
-    border-radius: 60px;
+    border-radius: 50%;
 }
 #welcome{
     position: absolute;
@@ -49,7 +50,7 @@ h2{
 #bio{
     padding: 50px;
     text-align: center;
-    font-size: 42px;
+    margin-top: -100px;
 }
 .line{
     height: 6px;
